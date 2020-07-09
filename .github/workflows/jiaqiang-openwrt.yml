@@ -18,7 +18,7 @@ on:
     paths:
       - 'jq.config'
   schedule:
-    - cron: 0 18 * * 1
+    - cron: 0 20 * * 1
   watch:
     types: started
 
