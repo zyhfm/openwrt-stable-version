@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt
+name: OpenWrt自用版
 
 on:
   repository_dispatch:
