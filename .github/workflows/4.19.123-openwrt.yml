@@ -17,8 +17,8 @@ on:
       - master
     paths:
       - 'zy.config'
-  schedule:
-    - cron: 30 21 * * 1
+#  schedule:
+#    - cron: 30 21 * * 1
   watch:
     types: started
 
