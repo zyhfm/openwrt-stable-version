@@ -22,6 +22,5 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 svn co https://github.com/Lienol/openwrt-package/trunk/lienol/luci-app-passwall package/luci-app-passwall
 svn co https://github.com/Lienol/openwrt-package/trunk/package/brook package/brook
 svn co https://github.com/Lienol/openwrt-package/trunk/package/chinadns-ng package/chinadns-ng
-svn co https://github.com/Lienol/openwrt-package/trunk/package/openssl1.1 package/openssl1.1
 svn co https://github.com/Lienol/openwrt-package/trunk/package/tcping package/tcping
 svn co https://github.com/Lienol/openwrt-package/trunk/package/trojan-go package/trojan-go
