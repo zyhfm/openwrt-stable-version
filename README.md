@@ -15,3 +15,4 @@ ip：192.168.1.1 密码：password
 tg交流群：https://t.me/joinchat/OT5eDxpuH2Kek2bEekUp0w
 
 频道订阅：https://t.me/zhinengchaoshenzhe
+
