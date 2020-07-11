@@ -9,3 +9,9 @@ lean稳定源码版本，内核为4.19版，分为自用版和精简版两版
 自动每3天更新一次，手动不定时更新
 
 ip：192.168.1.1 密码：password
+
+追新版openwrt云编译地址：https://github.com/firker/openwrt-Exclusive
+
+tg交流群：https://t.me/joinchat/OT5eDxpuH2Kek2bEekUp0w
+
+频道订阅：https://t.me/zhinengchaoshenzhe
