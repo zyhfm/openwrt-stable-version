@@ -1,6 +1,7 @@
+# lede openwrt-X86-64稳定版
 # P3TERX大佬opwnert固件云编译脚本
 
-云编译地址：https://github.com/P3TERX/Actions-OpenWrt
+云编译脚本地址：https://github.com/P3TERX/Actions-OpenWrt
 
 固件源码地址：https://github.com/coolsnowwolf/openwrt
 
