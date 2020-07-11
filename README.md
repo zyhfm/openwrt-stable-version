@@ -18,4 +18,4 @@ tg交流群：https://t.me/joinchat/OT5eDxpuH2Kek2bEekUp0w
 
 精简版固件截图：
 ![avatar](pco/a.jpg)
-
+![avatar](pco/b.jpg)![avatar](pco/c.jpg)![avatar](pco/d.jpg)![avatar](pco/e.jpg)
