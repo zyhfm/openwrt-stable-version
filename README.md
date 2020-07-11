@@ -17,5 +17,5 @@ tg交流群：https://t.me/joinchat/OT5eDxpuH2Kek2bEekUp0w
 频道订阅：https://t.me/zhinengchaoshenzhe
 
 精简版固件截图：
-![avatar](openwrt-stable-version/blob/master/pco/a.jpg)
+![avatar](blob/master/pco/a.jpg)
 
