@@ -17,6 +17,6 @@ lean稳定源码版本，内核为4.19版，分为自用版和精简版两版
 ## 自用版固件截图：
 ![avatar](boc/b.png)
 
-[tg交流群](https://t.me/joinchat/OT5eDxpuH2Kek2bEekUp0w)[频道订阅](https://t.me/zhinengchaoshenzhe)
+[tg频道订阅](https://t.me/zhinengchaoshenzhe)
 
 
