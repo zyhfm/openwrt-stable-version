@@ -19,7 +19,7 @@ on:
       - 'zy.config'
   schedule:
     - cron: 0 18 */3 * *
-#watch:
+#  watch:
 #    types: started
 
 env:
