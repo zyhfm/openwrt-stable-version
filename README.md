@@ -19,7 +19,7 @@ lean稳定源码版本，内核为4.19版，分为自用版、精简版、IPV6�
 ![avatar](boc/a.png)
 ## 自用版固件截图：
 ![avatar](boc/b.png)
-## 下载方式：[点击](https://github.com/firkerword/openwrt-stable-version/actions)选择需要的版本
+## 下载方式：点击[Actions](https://github.com/firkerword/openwrt-stable-version/actions)  选择需要的版本
 ![avatar](boc/c.png)
 
 [tg频道订阅](https://t.me/zhinengchaoshenzhe)
