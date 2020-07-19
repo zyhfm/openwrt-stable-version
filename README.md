@@ -13,12 +13,12 @@ lean稳定源码版本，内核为4.19版，分为自用版、精简版、IPV6�
 
 追新版云编译地址：https://github.com/firker/openwrt-Exclusive
 
+感谢各位大佬的源码。
+
 ## 精简版固件截图：
 ![avatar](boc/a.png)
 ## 自用版固件截图：
 ![avatar](boc/b.png)
-
-感谢各位大佬的源码和插件。
 
 [tg频道订阅](https://t.me/zhinengchaoshenzhe)
 
