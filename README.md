@@ -4,7 +4,7 @@
 
 固件源码地址：[https://github.com/coolsnowwolf/openwrt](https://github.com/coolsnowwolf/openwrt)
 
-lean稳定源码版本，内核为4.19版，分为***自用版、精简版、IPV6版***
+lean稳定源码版本，内核为**4.19版**，分为***自用版、精简版、IPV6版***
 
 自动每3天更新一次，手动不定时更新
 
